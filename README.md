@@ -12,8 +12,7 @@
 
 Hi ,I'm [Rupachandran S](https://www.linkedin.com/in/rupachandrans/) ,Currently ,<strong> pursuing 👩‍💻 M.Tech Integrated Computer Science Engineering</strong> from Vellore Institute of Technology ,Chennai.
 
-
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" height="300" />
 
 **Talking about Personal Stuffs:**
 
